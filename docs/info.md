@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Using AND and NOR gates, a logic circuit is made
+Using several NAND gates, a sequential logic circuit is made
 
 ## How to test
 
-Go through the truth table for the Gated SR Latch to ensure the logic works
+Go through the truth table for the 2-1 Multiplexer to ensure the logic works
 
 ## External hardware
 
